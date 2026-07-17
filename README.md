@@ -9,7 +9,8 @@ Data Scientist & Applied Statistician · MSc Econometrics & Data Science · form
 **Publications:**
 - Intervention Time Series Analysis - the Impact of COVID-19 on Fertility Using SARIMA Models (2024) - [doi:10.15611/2024.76.5.05](https://doi.org/10.15611/2024.76.5.05)
 - Dealing with Negative Observations While Calculating Inequalities - Asset Declarations of Polish Parliamentary Deputies (2023) - [doi:10.15611/sps.2022-2023.20-21.04](https://doi.org/10.15611/sps.2022-2023.20-21.04)
-- Forthcoming: housing price clustering and breakpoint detection in Polish cities; DEA-based efficiency of European countries in quality of life
+- Forthcoming: housing price clustering and breakpoint detection in Polish cities - [DBC](https://dbc.wroc.pl/dlibra/publication/187774/edition/147748)
+- Forthcoming: DEA-based efficiency of European countries in quality of life - [DBC](https://dbc.wroc.pl/dlibra/publication/182601/edition/143649)
 
 **Public projects:** see pinned repos below
 
